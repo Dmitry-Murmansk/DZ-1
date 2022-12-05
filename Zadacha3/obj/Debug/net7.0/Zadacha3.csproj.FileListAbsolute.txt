@@ -1,0 +1,15 @@
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\obj\Debug\net7.0\Zadacha3.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\obj\Debug\net7.0\Zadacha3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\obj\Debug\net7.0\Zadacha3.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\obj\Debug\net7.0\Zadacha3.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\obj\Debug\net7.0\Zadacha3.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\bin\Debug\net7.0\Zadacha3.exe
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\bin\Debug\net7.0\Zadacha3.deps.json
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\bin\Debug\net7.0\Zadacha3.runtimeconfig.json
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\bin\Debug\net7.0\Zadacha3.dll
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\bin\Debug\net7.0\Zadacha3.pdb
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\obj\Debug\net7.0\Zadacha3.dll
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\obj\Debug\net7.0\refint\Zadacha3.dll
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\obj\Debug\net7.0\Zadacha3.pdb
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\obj\Debug\net7.0\Zadacha3.genruntimeconfig.cache
+C:\Users\Dmitry\Desktop\DZ\DZ-1\Zadacha3\obj\Debug\net7.0\ref\Zadacha3.dll
